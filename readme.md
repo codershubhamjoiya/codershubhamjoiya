@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a php/laraval developer <br>i am also know about my sql/html/css/git/and github.
+i am a php/laraval developer <br>i am also know about my sql/html/css/git/github.
 
 
 ## 🌐 Socials:
